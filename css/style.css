@@ -1,3 +1,30 @@
-.inicio {
-  opacity: 0.5;
+#intro{
+	background-image: url(../img/fundo.jpg);
+}
+#post{
+	background-image: url(../img/postagens.jpg);
+}
+#sobre {
+	background-image: url(../img/about-bg.jpg);
+}
+#me{
+	text-indent: 40px;
+}
+#contato{
+	background-image: url(../img/contato.jpg);
+}
+#joao{
+	text-indent: 40px;
+}
+#jj{
+	margin: 0 auto;
+}
+#post2{
+	text-indent: 40px;	
+}
+#post002{
+	text-indent: 40px;
+}
+#fot{
+	margin: 0 auto;
 }
